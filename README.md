@@ -30,7 +30,7 @@ Open for collaboration on BIM automation projects.
 
 ## 📫 Contact
 
--[![Email](https://img.shields.io/badge/Email-arina.moiseenko8122%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arina.moiseenko8122@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arina.moiseenko8122%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arina.moiseenko8122@gmail.com)
 
 <!--
 **FlowerMAD/FlowerMAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
